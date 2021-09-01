@@ -1,6 +1,6 @@
 ### Overview
 
-GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page –       ![Download Go](https://golang.org/dl/)
+GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page –       [Download Go](https://golang.org/dl/)
 
 GO is available to be installed on Win, Mac, and Linux platforms.
 
@@ -15,7 +15,7 @@ Let’s look at all the three ways
 Using .pkg installer
 Install
 
-Download the MAC pkg installer from here – ![Download](https://golang.org/dl/). Double click the .pkg file and follow the onscreen instructions. Once finished GO will be installed in the below directory.
+Download the MAC pkg installer from here – [Download](https://golang.org/dl/). Double click the .pkg file and follow the onscreen instructions. Once finished GO will be installed in the below directory.
 _/usr/local/go_
 
 The installer will also add _‘/usr/local/go/bin’_ to your env PATH variable. This is the directory where the GO binary resides. Relaunch terminal for changes to take effect
