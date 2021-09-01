@@ -1,6 +1,6 @@
 #Overview
 
-GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page – [!Download Go(https://golang.org/dl/)]
+GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page –       ![Download Go(https://golang.org/dl/)]
 
 GO is available to be installed on Win, Mac, and Linux platforms.
 
