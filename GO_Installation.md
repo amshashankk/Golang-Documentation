@@ -1,10 +1,10 @@
-#Overview
+### Overview
 
-GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page –       ![Download Go(https://golang.org/dl/)]
+GO is available to be installed on Win, Mac, and Linux platforms. You can download the binary of the latest GO version from the GO’s official download page –       ![Download Go](https://golang.org/dl/)
 
 GO is available to be installed on Win, Mac, and Linux platforms.
 
-Installation on MAC
+## Installation on MAC
 GO can be installed on MAC in three ways
 
 Using archive
@@ -15,19 +15,22 @@ Let’s look at all the three ways
 Using .pkg installer
 Install
 
-Download the MAC pkg installer from here – https://golang.org/dl/. Double click the .pkg file and follow the onscreen instructions. Once finished GO will be installed in the below directory.
-/usr/local/go
-The installer will also add ‘/usr/local/go/bin’  to your env PATH variable. This is the directory where the GO binary resides. Relaunch terminal for changes to take effect
+Download the MAC pkg installer from here – ![Download](https://golang.org/dl/). Double click the .pkg file and follow the onscreen instructions. Once finished GO will be installed in the below directory.
+_/usr/local/go_
+
+The installer will also add _‘/usr/local/go/bin’_ to your env PATH variable. This is the directory where the GO binary resides. Relaunch terminal for changes to take effect
+
 Test Installation:
 
-Relaunch the terminal and type the command ‘which go’ in the terminal.It will output /usr/local/go/bin/go.  This is the location of go binary.
+Relaunch the terminal and type the command ‘which go’ in the terminal.It will output _/usr/local/go/bin/go_.  This is the location of go binary.
 Try running the ‘go version’ command. It will output the current GO Version
 Uninstall
 
 To uninstall do below two steps:
 
-rm -rf /usr/local/go      //Will require sudo permission
-rm -rf /etc/paths.do/go   //Will require sudo permission. This action deletes will remove /usr/local/go/bin from PATH env
+`rm -rf /usr/local/go`      //Will require sudo permission
+`rm -rf /etc/paths.do/go`   //Will require sudo permission. 
+This action deletes will remove /usr/local/go/bin from PATH env
 Using archive
 Install
 
